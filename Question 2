@@ -1,0 +1,8 @@
+//Use typeof operator to find a data type of the string in the last question ?
+
+let myString = "Hello";
+let myNumber = 42;
+
+let result = myString + myNumber;
+
+console.log(typeof result); // Output: "string"
