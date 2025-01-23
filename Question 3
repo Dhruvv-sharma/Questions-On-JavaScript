@@ -1,0 +1,12 @@
+// Write a js program to create a word meaning dictionary of 5 words ?
+
+// Create a word-meaning dictionary as an object
+const dictionary = {
+    apple: "A sweet fruit that grows on trees.",
+    ocean: "A vast body of salt water that covers most of the Earth.",
+    computer: "An electronic device for storing and processing data.",
+    courage: "The ability to do something that frightens one.",
+    library: "A place where books, media, and resources are available for reading or borrowing."
+  };
+  console.log("Word Dictionary");
+  console.log(dictionary);
